@@ -1,1 +1,1 @@
-# Maquette d'exercice avant exament JS FRONT CEPPIC 2025
+# Maquette d'exercice avant examen JS FRONT CEPPIC 2025
